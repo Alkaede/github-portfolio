@@ -26,7 +26,7 @@ function App() {
             <div className='skills_category'>
               <div className="skills_label">Languages</div>
               <ul>
-                <li className='skills_category_item'>JavaScript (ES6)</li>
+                <li className='skills_category_item'>TypeScript/JavaScript</li>
                 <li className='skills_category_item'>HTML</li>
                 <li className='skills_category_item'>CSS/SCSS</li>
                 <li className='skills_category_item'>Python</li>
